@@ -1,4 +1,4 @@
-# AutoCurve POC: Latent Graph Neural Networks for Clinical Medication Prediction
+# Latent Graph Neural Networks for Clinical Medication Prediction
 
 This repository hosts the Proof of Concept (POC) code for predicting patient medication states using clinical progression curves. The project utilizes PyTorch and Graph Neural Networks (GNNs) to perform multi-label classification on clinical datasets, learning latent patient similarity graphs in the process.
 
